@@ -15,7 +15,7 @@
 		<h3>Upload file</h3>
 		<form:form method="POST" action="/OnlineValidator/uploadFile"
 			enctype="multipart/form-data">
-		Select File: <input type="file" name="file" />
+			Select File: <input type="file" name="file" />
 			<input type="submit" value="Upload File" />
 		</form:form>
 	</div>
